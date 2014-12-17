@@ -1,4 +1,4 @@
-FTP
+FTP FTP FTP
 Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
